@@ -8,4 +8,3 @@ python main.py \
     --data_size 256 \
     --gpu '1,2' \
     2>&1 | tee weights/log.log
-    
